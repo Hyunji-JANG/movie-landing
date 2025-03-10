@@ -15,7 +15,7 @@ header {
   top: 0;
   left: 0;
   z-index: 2;
-  opacity: 0.8;
+  /* opacity: 0.8; */
 }
 
 header h1 a {
@@ -101,13 +101,13 @@ figure .text ul {
 
 figure .text ul li a i {
   font-size: 20px;
-  color: #fff;
+  color: #ccc;
   margin-right: 10px;
 }
 
 figure .text ul li a strong {
   font: normal 14px/1 'Orbitron';
-  color: #fff;
+  color: #ccc;
   letter-spacing: 1px;
 }
 
