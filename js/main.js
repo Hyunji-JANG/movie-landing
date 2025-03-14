@@ -8,8 +8,3 @@ snbBtn.addEventListener('click', () => {
     subMenu.classList.add('hide');
   }
 });
-
-// git add .
-// git statua
-// git commit -m "20250314 main.js 기능 추가"
-// git push
